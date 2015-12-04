@@ -1,0 +1,6 @@
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\bin\Debug\merhabadunyayazilimkulubu.exe.config
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\bin\Debug\merhabadunyayazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\bin\Debug\merhabadunyayazilimkulubu.pdb
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\obj\Debug\merhabadunyayazilimkulubu.csprojResolveAssemblyReference.cache
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\obj\Debug\merhabadunyayazilimkulubu.exe
+c:\users\kkadi\documents\visual studio 2015\Projects\merhabadunyayazilimkulubu\merhabadunyayazilimkulubu\obj\Debug\merhabadunyayazilimkulubu.pdb
